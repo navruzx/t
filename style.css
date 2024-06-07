@@ -1,0 +1,44 @@
+.container {
+    background-color: white;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    width: 1000px;
+    gap: 15px;
+    margin: auto;
+    margin-top: 100px;
+
+}
+.box {
+   
+    height: 200px;
+    color: white;
+    background-color: blue;
+    align-items: center;
+    justify-content: center;
+    font-size: 50px;
+    display: flex;
+}
+.box2 {
+    background-color: red;
+}
+.box3 {
+    background-color: gray;
+}
+.box4 {
+    background-color: yellow;
+}
+.box5 {
+    background-color: violet;
+}
+.box6 {
+    background-color: green;
+}
+.box7 {
+    background-color: bisque;
+}
+.box8 {
+    background-color: aquamarine;
+}
+.box9 {
+    background-color: brown;
+}
